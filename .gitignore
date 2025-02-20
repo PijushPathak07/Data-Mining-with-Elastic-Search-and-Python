@@ -1,3 +1,4 @@
 Thor/
 .env
 output/
+__pycache__/
